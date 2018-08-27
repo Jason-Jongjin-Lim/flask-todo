@@ -15,4 +15,5 @@ chmod u+x dockers/docker_build.sh
 
 # docker file create
 ./dockers/docker_build.sh
+curl http://localhost:5555
 ```
